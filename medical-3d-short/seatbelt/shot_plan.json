@@ -1,0 +1,105 @@
+{
+  "title": "The Belt That Buys You Time",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration_frames": 1847,
+  "duration_seconds": 61.567,
+  "style": "semi-realistic medical mannequin; dark car interior; translucent skeleton; cyan force vectors; no gore",
+  "labels": [
+    "PELVIS",
+    "RIBS",
+    "SHOULDER",
+    "HIP BONE"
+  ],
+  "shots": [
+    {
+      "id": 1,
+      "start": 0,
+      "end": 99,
+      "time": "0:00-0:03.3",
+      "visual": "Macro buckle click; cyan scan along webbing; mannequin torso soft in background",
+      "camera": "100mm macro, slow push-in",
+      "sound": "buckle click, low pulse"
+    },
+    {
+      "id": 2,
+      "start": 99,
+      "end": 294,
+      "time": "0:03.3-0:09.8",
+      "visual": "Side cutaway; car nose crumples; car stops; mannequin silhouette keeps moving",
+      "camera": "50mm locked side profile, 0.25x slow motion",
+      "sound": "muffled impact, low whoosh"
+    },
+    {
+      "id": 3,
+      "start": 294,
+      "end": 438,
+      "time": "0:09.8-0:14.6",
+      "visual": "Interior 3/4; belt catches mannequin; unbelted ghost reaches dashboard and fades",
+      "camera": "35mm inside car, subtle push-in",
+      "sound": "fabric stretch, low whoosh"
+    },
+    {
+      "id": 4,
+      "start": 438,
+      "end": 609,
+      "time": "0:14.6-0:20.3",
+      "visual": "Top/side cutaway; ejection-path ghost fades as belt holds mannequin inside",
+      "camera": "35mm wide, top-down",
+      "sound": "door thud, low pulse"
+    },
+    {
+      "id": 5,
+      "start": 609,
+      "end": 849,
+      "time": "0:20.3-0:28.3",
+      "visual": "Macro webbing stretch and force limiter; force curve drops; arrows spread across bone",
+      "camera": "100mm macro, slow orbit",
+      "sound": "ratchet ticks, fabric creak"
+    },
+    {
+      "id": 6,
+      "start": 849,
+      "end": 1047,
+      "time": "0:28.3-0:34.9",
+      "visual": "Translucent mannequin; skeleton glows; belt path lights up over pelvis, ribs, shoulder",
+      "camera": "50mm, 15 degree orbit",
+      "sound": "soft chime per label"
+    },
+    {
+      "id": 7,
+      "start": 1047,
+      "end": 1299,
+      "time": "0:34.9-0:43.3",
+      "visual": "Stylized hand catches ball with locked arms, then pulls back; force meter drops",
+      "camera": "50mm side macro",
+      "sound": "ball slap, air whoosh"
+    },
+    {
+      "id": 8,
+      "start": 1299,
+      "end": 1575,
+      "time": "0:43.3-0:52.5",
+      "visual": "Fit check front and side; lap belt on hips; shoulder belt across chest; red X for errors",
+      "camera": "50mm locked diagram angle",
+      "sound": "belt slide, click"
+    },
+    {
+      "id": 9,
+      "start": 1575,
+      "end": 1847,
+      "time": "0:52.5-1:01.57",
+      "visual": "Belt tension eases; mannequin settles; final macro of lap belt on hip bone; pull-out",
+      "camera": "100mm macro, slow pull-out",
+      "sound": "soft pad, final click"
+    }
+  ],
+  "audio": {
+    "file": "voice.wav",
+    "voice": "en-US-AndrewNeural",
+    "rate": "+15%",
+    "words": 222,
+    "duration_seconds": 61.56
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "+15%",
+  "pitch": "-2Hz",
+  "sample_rate": 48000,
+  "channels": 1,
+  "duration": 61.56,
+  "words": 222,
+  "source": "VOICEOVER.txt"
+}

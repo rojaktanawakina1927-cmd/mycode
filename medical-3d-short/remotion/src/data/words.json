@@ -1,0 +1,1112 @@
+[
+  {
+    "word": "A",
+    "start": 0.1,
+    "end": 0.252
+  },
+  {
+    "word": "seat",
+    "start": 0.263,
+    "end": 0.535
+  },
+  {
+    "word": "belt",
+    "start": 0.546,
+    "end": 0.752
+  },
+  {
+    "word": "does",
+    "start": 0.774,
+    "end": 0.893
+  },
+  {
+    "word": "not",
+    "start": 0.904,
+    "end": 1.089
+  },
+  {
+    "word": "stop",
+    "start": 1.1,
+    "end": 1.328
+  },
+  {
+    "word": "your",
+    "start": 1.339,
+    "end": 1.415
+  },
+  {
+    "word": "body",
+    "start": 1.426,
+    "end": 1.752
+  },
+  {
+    "word": "It",
+    "start": 2.061,
+    "end": 2.235
+  },
+  {
+    "word": "buys",
+    "start": 2.246,
+    "end": 2.463
+  },
+  {
+    "word": "your",
+    "start": 2.474,
+    "end": 2.539
+  },
+  {
+    "word": "body",
+    "start": 2.55,
+    "end": 2.833
+  },
+  {
+    "word": "time",
+    "start": 2.843,
+    "end": 3.115
+  },
+  {
+    "word": "In",
+    "start": 3.43,
+    "end": 3.583
+  },
+  {
+    "word": "a",
+    "start": 3.593,
+    "end": 3.648
+  },
+  {
+    "word": "crash",
+    "start": 3.659,
+    "end": 4.126
+  },
+  {
+    "word": "the",
+    "start": 4.322,
+    "end": 4.398
+  },
+  {
+    "word": "car",
+    "start": 4.409,
+    "end": 4.637
+  },
+  {
+    "word": "stops",
+    "start": 4.648,
+    "end": 4.93
+  },
+  {
+    "word": "first",
+    "start": 4.941,
+    "end": 5.333
+  },
+  {
+    "word": "You",
+    "start": 5.648,
+    "end": 5.8
+  },
+  {
+    "word": "do",
+    "start": 5.811,
+    "end": 5.941
+  },
+  {
+    "word": "not",
+    "start": 5.952,
+    "end": 6.267
+  },
+  {
+    "word": "For",
+    "start": 6.583,
+    "end": 6.757
+  },
+  {
+    "word": "a",
+    "start": 6.767,
+    "end": 6.789
+  },
+  {
+    "word": "moment",
+    "start": 6.8,
+    "end": 7.159
+  },
+  {
+    "word": "your",
+    "start": 7.42,
+    "end": 7.517
+  },
+  {
+    "word": "body",
+    "start": 7.528,
+    "end": 7.822
+  },
+  {
+    "word": "keeps",
+    "start": 7.833,
+    "end": 8.061
+  },
+  {
+    "word": "moving",
+    "start": 8.072,
+    "end": 8.365
+  },
+  {
+    "word": "at",
+    "start": 8.376,
+    "end": 8.441
+  },
+  {
+    "word": "the",
+    "start": 8.452,
+    "end": 8.517
+  },
+  {
+    "word": "speed",
+    "start": 8.528,
+    "end": 8.833
+  },
+  {
+    "word": "you",
+    "start": 8.843,
+    "end": 8.887
+  },
+  {
+    "word": "were",
+    "start": 8.898,
+    "end": 8.974
+  },
+  {
+    "word": "travelling",
+    "start": 8.985,
+    "end": 9.42
+  },
+  {
+    "word": "That",
+    "start": 9.735,
+    "end": 9.909
+  },
+  {
+    "word": "is",
+    "start": 9.92,
+    "end": 10.007
+  },
+  {
+    "word": "why",
+    "start": 10.017,
+    "end": 10.126
+  },
+  {
+    "word": "the",
+    "start": 10.137,
+    "end": 10.213
+  },
+  {
+    "word": "injury",
+    "start": 10.224,
+    "end": 10.626
+  },
+  {
+    "word": "often",
+    "start": 10.637,
+    "end": 10.93
+  },
+  {
+    "word": "happens",
+    "start": 10.941,
+    "end": 11.278
+  },
+  {
+    "word": "a",
+    "start": 11.289,
+    "end": 11.333
+  },
+  {
+    "word": "beat",
+    "start": 11.343,
+    "end": 11.593
+  },
+  {
+    "word": "later",
+    "start": 11.604,
+    "end": 11.898
+  },
+  {
+    "word": "when",
+    "start": 12.202,
+    "end": 12.311
+  },
+  {
+    "word": "your",
+    "start": 12.322,
+    "end": 12.42
+  },
+  {
+    "word": "body",
+    "start": 12.43,
+    "end": 12.724
+  },
+  {
+    "word": "catches",
+    "start": 12.735,
+    "end": 13.126
+  },
+  {
+    "word": "up",
+    "start": 13.137,
+    "end": 13.278
+  },
+  {
+    "word": "with",
+    "start": 13.289,
+    "end": 13.387
+  },
+  {
+    "word": "the",
+    "start": 13.398,
+    "end": 13.463
+  },
+  {
+    "word": "inside",
+    "start": 13.474,
+    "end": 13.876
+  },
+  {
+    "word": "of",
+    "start": 13.887,
+    "end": 13.941
+  },
+  {
+    "word": "the",
+    "start": 13.952,
+    "end": 14.017
+  },
+  {
+    "word": "car",
+    "start": 14.028,
+    "end": 14.365
+  },
+  {
+    "word": "The",
+    "start": 14.68,
+    "end": 14.833
+  },
+  {
+    "word": "belt",
+    "start": 14.843,
+    "end": 15.061
+  },
+  {
+    "word": "does",
+    "start": 15.072,
+    "end": 15.224
+  },
+  {
+    "word": "two",
+    "start": 15.235,
+    "end": 15.398
+  },
+  {
+    "word": "things",
+    "start": 15.409,
+    "end": 15.811
+  },
+  {
+    "word": "It",
+    "start": 16.126,
+    "end": 16.289
+  },
+  {
+    "word": "keeps",
+    "start": 16.3,
+    "end": 16.517
+  },
+  {
+    "word": "you",
+    "start": 16.528,
+    "end": 16.626
+  },
+  {
+    "word": "inside",
+    "start": 16.637,
+    "end": 16.985
+  },
+  {
+    "word": "the",
+    "start": 16.996,
+    "end": 17.061
+  },
+  {
+    "word": "vehicle",
+    "start": 17.072,
+    "end": 17.463
+  },
+  {
+    "word": "because",
+    "start": 17.67,
+    "end": 17.92
+  },
+  {
+    "word": "ejection",
+    "start": 17.93,
+    "end": 18.343
+  },
+  {
+    "word": "is",
+    "start": 18.354,
+    "end": 18.463
+  },
+  {
+    "word": "one",
+    "start": 18.474,
+    "end": 18.572
+  },
+  {
+    "word": "of",
+    "start": 18.583,
+    "end": 18.637
+  },
+  {
+    "word": "the",
+    "start": 18.648,
+    "end": 18.735
+  },
+  {
+    "word": "deadliest",
+    "start": 18.746,
+    "end": 19.191
+  },
+  {
+    "word": "events",
+    "start": 19.202,
+    "end": 19.463
+  },
+  {
+    "word": "in",
+    "start": 19.474,
+    "end": 19.539
+  },
+  {
+    "word": "a",
+    "start": 19.55,
+    "end": 19.583
+  },
+  {
+    "word": "crash",
+    "start": 19.593,
+    "end": 20.072
+  },
+  {
+    "word": "And",
+    "start": 20.387,
+    "end": 20.539
+  },
+  {
+    "word": "it",
+    "start": 20.55,
+    "end": 20.626
+  },
+  {
+    "word": "lets",
+    "start": 20.637,
+    "end": 20.778
+  },
+  {
+    "word": "you",
+    "start": 20.789,
+    "end": 20.887
+  },
+  {
+    "word": "ride",
+    "start": 20.898,
+    "end": 21.126
+  },
+  {
+    "word": "down",
+    "start": 21.137,
+    "end": 21.322
+  },
+  {
+    "word": "the",
+    "start": 21.333,
+    "end": 21.398
+  },
+  {
+    "word": "impact",
+    "start": 21.409,
+    "end": 21.843
+  },
+  {
+    "word": "The",
+    "start": 22.159,
+    "end": 22.3
+  },
+  {
+    "word": "belt",
+    "start": 22.311,
+    "end": 22.496
+  },
+  {
+    "word": "stretches",
+    "start": 22.507,
+    "end": 22.865
+  },
+  {
+    "word": "slightly",
+    "start": 22.876,
+    "end": 23.3
+  },
+  {
+    "word": "force",
+    "start": 23.452,
+    "end": 23.691
+  },
+  {
+    "word": "limiters",
+    "start": 23.702,
+    "end": 24.137
+  },
+  {
+    "word": "let",
+    "start": 24.17,
+    "end": 24.322
+  },
+  {
+    "word": "a",
+    "start": 24.333,
+    "end": 24.365
+  },
+  {
+    "word": "little",
+    "start": 24.376,
+    "end": 24.659
+  },
+  {
+    "word": "webbing",
+    "start": 24.67,
+    "end": 24.887
+  },
+  {
+    "word": "spool",
+    "start": 24.898,
+    "end": 25.213
+  },
+  {
+    "word": "out",
+    "start": 25.224,
+    "end": 25.463
+  },
+  {
+    "word": "More",
+    "start": 25.778,
+    "end": 25.974
+  },
+  {
+    "word": "distance",
+    "start": 25.985,
+    "end": 26.474
+  },
+  {
+    "word": "more",
+    "start": 26.55,
+    "end": 26.702
+  },
+  {
+    "word": "time",
+    "start": 26.713,
+    "end": 27.028
+  },
+  {
+    "word": "less",
+    "start": 27.289,
+    "end": 27.409
+  },
+  {
+    "word": "peak",
+    "start": 27.42,
+    "end": 27.604
+  },
+  {
+    "word": "force",
+    "start": 27.615,
+    "end": 28.05
+  },
+  {
+    "word": "Luckily",
+    "start": 28.365,
+    "end": 28.789
+  },
+  {
+    "word": "your",
+    "start": 28.854,
+    "end": 28.952
+  },
+  {
+    "word": "body",
+    "start": 28.963,
+    "end": 29.256
+  },
+  {
+    "word": "has",
+    "start": 29.267,
+    "end": 29.387
+  },
+  {
+    "word": "hard",
+    "start": 29.398,
+    "end": 29.648
+  },
+  {
+    "word": "points",
+    "start": 29.659,
+    "end": 30.115
+  },
+  {
+    "word": "pelvis",
+    "start": 30.409,
+    "end": 30.865
+  },
+  {
+    "word": "rib",
+    "start": 31.039,
+    "end": 31.18
+  },
+  {
+    "word": "cage",
+    "start": 31.191,
+    "end": 31.517
+  },
+  {
+    "word": "shoulder",
+    "start": 31.615,
+    "end": 32.028
+  },
+  {
+    "word": "Unluckily",
+    "start": 32.343,
+    "end": 32.952
+  },
+  {
+    "word": "the",
+    "start": 33.028,
+    "end": 33.115
+  },
+  {
+    "word": "belt",
+    "start": 33.126,
+    "end": 33.365
+  },
+  {
+    "word": "only",
+    "start": 33.387,
+    "end": 33.604
+  },
+  {
+    "word": "uses",
+    "start": 33.615,
+    "end": 33.92
+  },
+  {
+    "word": "them",
+    "start": 33.93,
+    "end": 34.05
+  },
+  {
+    "word": "if",
+    "start": 34.072,
+    "end": 34.159
+  },
+  {
+    "word": "it",
+    "start": 34.17,
+    "end": 34.235
+  },
+  {
+    "word": "sits",
+    "start": 34.246,
+    "end": 34.452
+  },
+  {
+    "word": "on",
+    "start": 34.463,
+    "end": 34.583
+  },
+  {
+    "word": "them",
+    "start": 34.593,
+    "end": 34.746
+  },
+  {
+    "word": "Think",
+    "start": 35.061,
+    "end": 35.289
+  },
+  {
+    "word": "of",
+    "start": 35.3,
+    "end": 35.376
+  },
+  {
+    "word": "catching",
+    "start": 35.387,
+    "end": 35.724
+  },
+  {
+    "word": "a",
+    "start": 35.735,
+    "end": 35.778
+  },
+  {
+    "word": "fast",
+    "start": 35.789,
+    "end": 36.083
+  },
+  {
+    "word": "ball",
+    "start": 36.093,
+    "end": 36.343
+  },
+  {
+    "word": "Lock",
+    "start": 36.659,
+    "end": 36.909
+  },
+  {
+    "word": "your",
+    "start": 36.92,
+    "end": 37.017
+  },
+  {
+    "word": "arms",
+    "start": 37.028,
+    "end": 37.322
+  },
+  {
+    "word": "and",
+    "start": 37.333,
+    "end": 37.43
+  },
+  {
+    "word": "the",
+    "start": 37.441,
+    "end": 37.528
+  },
+  {
+    "word": "impact",
+    "start": 37.539,
+    "end": 37.909
+  },
+  {
+    "word": "stings",
+    "start": 37.92,
+    "end": 38.322
+  },
+  {
+    "word": "Pull",
+    "start": 38.637,
+    "end": 38.822
+  },
+  {
+    "word": "your",
+    "start": 38.833,
+    "end": 38.941
+  },
+  {
+    "word": "hands",
+    "start": 38.952,
+    "end": 39.256
+  },
+  {
+    "word": "back",
+    "start": 39.267,
+    "end": 39.593
+  },
+  {
+    "word": "and",
+    "start": 39.713,
+    "end": 39.767
+  },
+  {
+    "word": "the",
+    "start": 39.778,
+    "end": 39.843
+  },
+  {
+    "word": "force",
+    "start": 39.854,
+    "end": 40.115
+  },
+  {
+    "word": "drops",
+    "start": 40.126,
+    "end": 40.561
+  },
+  {
+    "word": "A",
+    "start": 40.876,
+    "end": 41.028
+  },
+  {
+    "word": "seat",
+    "start": 41.039,
+    "end": 41.289
+  },
+  {
+    "word": "belt",
+    "start": 41.3,
+    "end": 41.485
+  },
+  {
+    "word": "is",
+    "start": 41.507,
+    "end": 41.572
+  },
+  {
+    "word": "that",
+    "start": 41.583,
+    "end": 41.724
+  },
+  {
+    "word": "pull-back",
+    "start": 41.735,
+    "end": 42.202
+  },
+  {
+    "word": "for",
+    "start": 42.3,
+    "end": 42.409
+  },
+  {
+    "word": "your",
+    "start": 42.42,
+    "end": 42.539
+  },
+  {
+    "word": "whole",
+    "start": 42.55,
+    "end": 42.757
+  },
+  {
+    "word": "body",
+    "start": 42.767,
+    "end": 43.115
+  },
+  {
+    "word": "So",
+    "start": 43.43,
+    "end": 43.67
+  },
+  {
+    "word": "fit",
+    "start": 43.68,
+    "end": 43.843
+  },
+  {
+    "word": "matters",
+    "start": 43.854,
+    "end": 44.3
+  },
+  {
+    "word": "Lap",
+    "start": 44.615,
+    "end": 44.898
+  },
+  {
+    "word": "belt",
+    "start": 44.909,
+    "end": 45.104
+  },
+  {
+    "word": "low",
+    "start": 45.115,
+    "end": 45.278
+  },
+  {
+    "word": "across",
+    "start": 45.289,
+    "end": 45.572
+  },
+  {
+    "word": "the",
+    "start": 45.583,
+    "end": 45.648
+  },
+  {
+    "word": "hip",
+    "start": 45.659,
+    "end": 45.833
+  },
+  {
+    "word": "bones",
+    "start": 45.843,
+    "end": 46.17
+  },
+  {
+    "word": "not",
+    "start": 46.311,
+    "end": 46.474
+  },
+  {
+    "word": "the",
+    "start": 46.485,
+    "end": 46.55
+  },
+  {
+    "word": "stomach",
+    "start": 46.561,
+    "end": 46.974
+  },
+  {
+    "word": "Shoulder",
+    "start": 47.289,
+    "end": 47.67
+  },
+  {
+    "word": "belt",
+    "start": 47.68,
+    "end": 47.865
+  },
+  {
+    "word": "across",
+    "start": 47.876,
+    "end": 48.137
+  },
+  {
+    "word": "the",
+    "start": 48.148,
+    "end": 48.224
+  },
+  {
+    "word": "chest",
+    "start": 48.235,
+    "end": 48.572
+  },
+  {
+    "word": "and",
+    "start": 48.593,
+    "end": 48.68
+  },
+  {
+    "word": "collarbone",
+    "start": 48.691,
+    "end": 49.213
+  },
+  {
+    "word": "away",
+    "start": 49.517,
+    "end": 49.68
+  },
+  {
+    "word": "from",
+    "start": 49.691,
+    "end": 49.833
+  },
+  {
+    "word": "the",
+    "start": 49.843,
+    "end": 49.898
+  },
+  {
+    "word": "neck",
+    "start": 49.909,
+    "end": 50.18
+  },
+  {
+    "word": "Never",
+    "start": 50.496,
+    "end": 50.8
+  },
+  {
+    "word": "under",
+    "start": 50.811,
+    "end": 50.952
+  },
+  {
+    "word": "the",
+    "start": 50.963,
+    "end": 51.039
+  },
+  {
+    "word": "arm",
+    "start": 51.05,
+    "end": 51.322
+  },
+  {
+    "word": "or",
+    "start": 51.452,
+    "end": 51.528
+  },
+  {
+    "word": "behind",
+    "start": 51.539,
+    "end": 51.876
+  },
+  {
+    "word": "the",
+    "start": 51.887,
+    "end": 51.941
+  },
+  {
+    "word": "back",
+    "start": 51.952,
+    "end": 52.3
+  },
+  {
+    "word": "The",
+    "start": 52.615,
+    "end": 52.767
+  },
+  {
+    "word": "belt",
+    "start": 52.778,
+    "end": 53.017
+  },
+  {
+    "word": "is",
+    "start": 53.05,
+    "end": 53.148
+  },
+  {
+    "word": "not",
+    "start": 53.159,
+    "end": 53.354
+  },
+  {
+    "word": "there",
+    "start": 53.365,
+    "end": 53.474
+  },
+  {
+    "word": "to",
+    "start": 53.485,
+    "end": 53.539
+  },
+  {
+    "word": "squeeze",
+    "start": 53.55,
+    "end": 53.865
+  },
+  {
+    "word": "you",
+    "start": 53.876,
+    "end": 53.952
+  },
+  {
+    "word": "tight",
+    "start": 53.963,
+    "end": 54.289
+  },
+  {
+    "word": "It",
+    "start": 54.604,
+    "end": 54.746
+  },
+  {
+    "word": "is",
+    "start": 54.757,
+    "end": 54.843
+  },
+  {
+    "word": "there",
+    "start": 54.854,
+    "end": 54.952
+  },
+  {
+    "word": "to",
+    "start": 54.963,
+    "end": 55.028
+  },
+  {
+    "word": "let",
+    "start": 55.039,
+    "end": 55.213
+  },
+  {
+    "word": "you",
+    "start": 55.224,
+    "end": 55.289
+  },
+  {
+    "word": "stop",
+    "start": 55.3,
+    "end": 55.539
+  },
+  {
+    "word": "slowly",
+    "start": 55.55,
+    "end": 55.963
+  },
+  {
+    "word": "Buckle",
+    "start": 56.278,
+    "end": 56.572
+  },
+  {
+    "word": "up",
+    "start": 56.583,
+    "end": 56.735
+  },
+  {
+    "word": "Put",
+    "start": 57.05,
+    "end": 57.224
+  },
+  {
+    "word": "the",
+    "start": 57.235,
+    "end": 57.311
+  },
+  {
+    "word": "belt",
+    "start": 57.322,
+    "end": 57.539
+  },
+  {
+    "word": "on",
+    "start": 57.55,
+    "end": 57.659
+  },
+  {
+    "word": "bone",
+    "start": 57.67,
+    "end": 57.996
+  },
+  {
+    "word": "Educational",
+    "start": 58.311,
+    "end": 58.941
+  },
+  {
+    "word": "only",
+    "start": 58.952,
+    "end": 59.246
+  },
+  {
+    "word": "follow",
+    "start": 59.691,
+    "end": 59.952
+  },
+  {
+    "word": "your",
+    "start": 59.963,
+    "end": 60.083
+  },
+  {
+    "word": "manual",
+    "start": 60.093,
+    "end": 60.583
+  },
+  {
+    "word": "and",
+    "start": 60.593,
+    "end": 60.702
+  },
+  {
+    "word": "local",
+    "start": 60.713,
+    "end": 61.017
+  },
+  {
+    "word": "law",
+    "start": 61.028,
+    "end": 61.257
+  }
+]
